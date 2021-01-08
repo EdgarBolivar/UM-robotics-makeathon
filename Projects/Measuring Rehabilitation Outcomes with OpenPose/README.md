@@ -16,7 +16,6 @@ For Prosthetists and Orthotists, it is important to measure objective rehabilita
 # Resources
 1. [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 1. Webcam 1080P HD.
-1. RPi-4 (?)
 
 # Constraints
-1. Develop the tool for Windows 10/8. Our alpha test will be to deploy our tool at the UM-Orthotics and Prosthetic Center ([UMOPC](https://www.uofmhealth.org/our-locations/south-industrial-op)).  The UMOPC will have access only to Windows machines. (Optional, it may be possible to use a debian-based system. Ask your mentor about the possibility of implementation in RPi-4.)
+1. Develop the tool for Windows 10/8. Our alpha test will be to deploy our tool at the UM-Orthotics and Prosthetic Center ([UMOPC](https://www.uofmhealth.org/our-locations/south-industrial-op)).  The UMOPC will have access only to Windows machines.
