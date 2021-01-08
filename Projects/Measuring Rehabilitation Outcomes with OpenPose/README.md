@@ -14,6 +14,7 @@ For Prosthetists and Orthotists, it is important to measure objective rehabilita
 * Create a real-time video that shows in parallel the motion of the patient with the skeleton from OpenPose, the joint angle vs. time for the knee and ankle, and the statistical information from the the data currently in display.
 
 # Resources
+1. [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
 1. Webcam 1080P HD.
 1. RPi-4 (?)
 
