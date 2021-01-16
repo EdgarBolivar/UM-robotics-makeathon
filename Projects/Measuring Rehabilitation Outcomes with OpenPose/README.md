@@ -20,10 +20,14 @@ For Prosthetists and Orthotists, it is important to measure objective rehabilita
 * Include a violin plot to report the statistics of the ROM, step length, and cadence.
 * Create a real-time video that shows in parallel the motion of the patient with the skeleton from OpenPose, the joint angle vs. time for the knee and ankle, and the statistical information from the the data currently in display.
 
+# Example
+![Image](LiveData_automaticTracking_B-2.gif)
+
+GIF from Dartfish.
 # Resources
-1. You will have access to an [Azure Kinect DK](https://azure.microsoft.com/en-us/services/kinect-dk/)
-1. [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
-1. [Azure Kinect Body Tracking SDK](https://docs.microsoft.com/en-us/azure/Kinect-dk/body-sdk-download)
+1. You will have access to an [Azure Kinect DK.](https://azure.microsoft.com/en-us/services/kinect-dk/)
+1. [OpenPose.](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+1. [Azure Kinect Body Tracking SDK.](https://docs.microsoft.com/en-us/azure/Kinect-dk/body-sdk-download)
 1. [Dartfish](https://www.dartfish.com/healthcare). An example from industry.
 
 # Desired skills
